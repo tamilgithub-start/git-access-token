@@ -1,1 +1,2 @@
 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
+git config --global credential.helper cache
